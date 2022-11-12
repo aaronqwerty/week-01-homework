@@ -10,7 +10,7 @@ The CSS and HTML code has been refactored to ensure clean code making it easier 
 
 ## Installation
 
-The website can be accessed here; x
+The website can be accessed here; https://aaronqwerty.github.io/week-1-homework/
 
 
 ## Screenshot
